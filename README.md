@@ -25,6 +25,7 @@
 - Filtering & Sorting
 - Search function
 - Pagination
+- Websocket live chat
 
 ## Styling
 - CSS Styled Components

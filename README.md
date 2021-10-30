@@ -8,7 +8,7 @@
 ## Tech Stack
 - ReactJS
 - Django 
-- Postgre
+- PostgreSQL
 - Netlify
 
 ## API
@@ -32,7 +32,7 @@
 - User post
 
 ## Databases
-- Postgre
+- PostgreSQL
 
 ## Deployment
 - Netlify

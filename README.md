@@ -20,6 +20,12 @@
 - useContext Hooks for user credentials auth
 - Include forget password feature
 
+## Functionality
+- Collasable NavBar
+- Filtering & Sorting
+- Search function
+- Pagination
+
 ## Styling
 - CSS Styled Components
 - React-Bootstrap
